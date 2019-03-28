@@ -1,6 +1,6 @@
 ## Welcome to TimeHack
 
-[TimeHack](https://s-brenner.github.io/time-hack/index) is the result of my frustration with reading GDSS2 cuts and trying to figure out mission timing in both UTC and local time. Give it a chance if you hate math in public too.
+TimeHack is the result of my frustration with reading GDSS2 cuts and trying to figure out mission timing in both UTC and local time. I don't have time to think about Julian dates past January. [Download TimeHack](https://s-brenner.github.io/time-hack/index) if you hate public math too.
 
 ### Features
 
