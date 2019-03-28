@@ -34,9 +34,9 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 
 Examples of Cookies we use:
 
-**Session Cookies.** We use Session Cookies to operate our Service.
-**Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
-**Security Cookies.** We use Security Cookies for security purposes.
+- **Session Cookies.** We use Session Cookies to operate our Service.
+- **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+- **Security Cookies.** We use Security Cookies for security purposes.
 
 ## Use of Data
 
