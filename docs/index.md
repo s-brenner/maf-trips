@@ -34,7 +34,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Features
 
-[privacy](https://github.com/s-brenner/time-hack/privacy)
+[Privacy Policy](https://s-brenner.github.io/time-hack/privacy)
+[Terms of Use](https://s-brenner.github.io/time-hack/terms)
+
 
 ### Support or Contact
 
