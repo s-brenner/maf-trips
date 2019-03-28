@@ -7,16 +7,31 @@ TimeHack is the result of my frustration with reading GDSS2 cuts and trying to f
 Create a trip and add as many legs as you need. Creating a leg is simple. All you need is the departure field, takeoff time, landing field and arrival time.
 
 From there, TimeHack will generate timing
-**for the trip:**
-- x
-- x
 
-**and for each leg:** 
+**for the trip**
+- Total Duration
+- Total Flight Time
+- Home Station Pre Departure Crew Rest
+- Post Mission Crew Rest
+
+**and for each leg** 
 - Stop SCUBA
 - Enter Crew Rest
 - Stop Drinking
 - Legal For Alert
 - Expected Alert
+- Show
+- Intel
+- Brief
+- Bus
+- Formation Check-In
+- Start Engines
+- Taxi
+- Shutdown Engines
+- Termination
+- Transition/FCF/ACF Flight Duty Period
+- Flight Duty Period
+- Crew Duty Time
 
 ### About the Developer
 
