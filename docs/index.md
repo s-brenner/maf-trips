@@ -35,7 +35,7 @@ TimeHack uses AFI11-2KC-135V3 to set default timing values, however everything i
 
 ### About the Developer
 
-I fly the KC-135 for a living and write iOS apps as a hobby. Send feedback to brenner.scott.developer@gmail.com.
+I fly the KC-135 for a living and wrote this iOS app as a hobby. Send feedback to me [here](mailto:brenner.scott.developer@gmail.com).
 
 ### Legal Stuff
 
