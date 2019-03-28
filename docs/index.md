@@ -1,6 +1,6 @@
 ## Welcome to TimeHack
 
-TimeHack is the result of my frustration with reading GDSS2 cuts and trying to figure out mission timing in both UTC and local time.
+TimeHack is the result of my frustration with reading GDSS2 cuts and trying to figure out mission timing in both UTC and local time. Give it a shot if you hate math in public too.
 
 ### Features
 
