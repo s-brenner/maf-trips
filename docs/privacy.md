@@ -2,7 +2,7 @@
 
 Effective date: March 28, 2019
 
-Time Hack ("us", "we", or "our") operates the mobile application (the "Service").
+MAF Trips ("us", "we", or "our") operates the mobile application (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -40,7 +40,7 @@ Examples of Cookies we use:
 
 ## Use of Data
 
-Time Hack uses the collected data for various purposes:
+MAF Trips uses the collected data for various purposes:
 
 To provide and maintain the Service
 To notify you about changes to our Service
@@ -58,16 +58,16 @@ If you are located outside United States and choose to provide information to us
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-Time Hack will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+MAF Trips will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 ## Disclosure Of Data
 
 ### Legal Requirements
 
-Time Hack may disclose your Personal Data in the good faith belief that such action is necessary to:
+MAF Trips may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 To comply with a legal obligation
-To protect and defend the rights or property of Time Hack
+To protect and defend the rights or property of MAF Trips
 To prevent or investigate possible wrongdoing in connection with the Service
 To protect the personal safety of users of the Service or the public
 To protect against legal liability
@@ -106,4 +106,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: brenner.scott.developer@gmail.com
+By email: brenner.scott.980@icloud.com
