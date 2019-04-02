@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective date: March 28, 2019
+Effective date: April 2, 2019
 
 MAF Trips ("us", "we", or "our") operates the mobile application (the "Service").
 
