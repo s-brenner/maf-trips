@@ -2,17 +2,17 @@
 
 Last updated: March 28, 2019
 
-Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the https://s-brenner.github.io/time-hack/ website (the "Service") operated by Time Hack ("us", "we", or "our").
+Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the https://s-brenner.github.io/time-hack/ website (the "Service") operated by MAF Trips ("us", "we", or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
 
-By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service. The Terms and Conditions agreement for Time Hack has been created with the help of FreePrivacyPolicy Terms and Conditions Generator.
+By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service. The Terms and Conditions agreement for MAF Trips has been created with the help of FreePrivacyPolicy Terms and Conditions Generator.
 
 ## Links To Other Web Sites
 
-Our Service may contain links to third-party web sites or services that are not owned or controlled by Time Hack.
+Our Service may contain links to third-party web sites or services that are not owned or controlled by MAF Trips.
 
-Time Hack has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Time Hack shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
+MAF Trips has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that MAF Trips shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
 
 We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.
 
