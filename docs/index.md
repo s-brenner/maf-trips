@@ -4,7 +4,7 @@ MAF Trips is the result of my frustration with reading GDSS2 cuts and trying to 
 
 ### Features
 
-Create a trip and add as many legs as you need. Creating a leg is simple. All you need is the departure field, takeoff time, landing field and arrival time. From there, MAF Trips will generate timing
+Create a trip and add as many duty days as you need. Creating a duty day is simple. All you need is the departure airport, takeoff time, landing airport and arrival time. From there, MAF Trips will generate timing
 
 **for the trip**
 - Total Duration
@@ -12,12 +12,15 @@ Create a trip and add as many legs as you need. Creating a leg is simple. All yo
 - Home Station Pre Departure Crew Rest
 - Post Mission Crew Rest
 
-**and for each leg** 
+**and for each duty day** 
 - Stop SCUBA
 - Enter Crew Rest
 - Stop Drinking
+- Latest Time to Take Sonata
+- Latest Time to Take Ambien
+- Latest Time to Take Restoril
 - Legal For Alert
-- Expected Alert
+- Alert
 - Show
 - Intel
 - Brief
