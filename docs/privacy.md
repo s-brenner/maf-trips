@@ -60,7 +60,7 @@ MAF Trips may disclose your Personal Data in the good faith belief that such act
 
 ## Security Of Data
 
-The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+The security of your data is important to us. We will never sell your data. All communication between the service and our servers is encrypted following industry best practices. However, please remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to protect your Personal Data, we cannot guarantee its absolute security.
 
 ## Service Providers
 
