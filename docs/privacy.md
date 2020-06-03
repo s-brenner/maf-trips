@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective date: April 2, 2019
+Effective date: June 3, 2020
 
 MAF Trips ("us", "we", or "our") operates the mobile application (the "Service").
 
@@ -18,25 +18,11 @@ We collect several different types of information for various purposes to provid
 
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
-Cookies and Usage Data
+Name and email
 
 ### Usage Data
 
-When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data ("Usage Data").
-
-### Tracking & Cookies Data
-
-We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
-
-Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
-
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
-
-Examples of Cookies we use:
-
-- **Session Cookies.** We use Session Cookies to operate our Service.
-- **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
-- **Security Cookies.** We use Security Cookies for security purposes.
+When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, your mobile operating system, unique device identifiers and other diagnostic data ("Usage Data").
 
 ## Use of Data
 
