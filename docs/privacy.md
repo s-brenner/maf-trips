@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective date: June 3, 2020
+Effective date: June 6, 2020
 
 MAF Trips ("us", "we", or "our") operates the mobile application (the "Service").
 
@@ -18,7 +18,10 @@ We collect several different types of information for various purposes to provid
 
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
-Name and email
+* Name
+* Email
+* Aircraft
+* Base
 
 ### Usage Data
 
@@ -35,6 +38,11 @@ MAF Trips uses the collected data for various purposes:
 * To provide analysis or valuable information so that we can improve the Service
 * To monitor the usage of the Service
 * To detect, prevent and address technical issues
+
+MAF Trips will never:
+
+* Sell your data to anyone
+* Use your data to serve advertisements
 
 ## Transfer Of Data
 
@@ -60,7 +68,7 @@ MAF Trips may disclose your Personal Data in the good faith belief that such act
 
 ## Security Of Data
 
-The security of your data is important to us. First and foremost, we will never sell your data. Additionally, all communication between the service and our servers is encrypted following industry best practices. However, please remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to protect your Personal Data, we cannot guarantee its absolute security.
+The security of your data is important to us. All communication between the service and our servers is encrypted following industry best practices. However, please remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to protect your Personal Data, we cannot guarantee its absolute security.
 
 ## Service Providers
 
