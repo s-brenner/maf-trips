@@ -1,6 +1,6 @@
 ## Welcome to MAF Trips
 
-MAF Trips is the result of my frustration with reading GDSS2 cuts and trying to figure out mission timing in both UTC and local time. I don't have time to think about Julian dates past January. [Download MAF Trips](https://s-brenner.github.io/maf-trips/index) if you hate public math too.
+MAF Trips is the result of my frustration with reading GDSS2 cuts and trying to figure out mission timing in both UTC and local time. I don't have time to think about Julian dates past January. [Download MAF Trips](https://apps.apple.com/us/app/maf-trips/id1458439441) if you hate public math too.
 
 ### Features
 
