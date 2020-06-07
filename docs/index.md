@@ -16,9 +16,11 @@ Create a trip and add as many duty days as you need. Creating a duty day is simp
 - Stop SCUBA
 - Enter Crew Rest
 - Stop Drinking
+- Bedtime
 - Latest Time to Take Sonata
 - Latest Time to Take Ambien
 - Latest Time to Take Restoril
+- Wake time
 - Legal For Alert
 - Alert
 - Show
@@ -40,6 +42,8 @@ I fly the KC-135 for a living and wrote this iOS app as a hobby. Send feedback t
 
 ### Legal Stuff
 
+[MAF Trips and Your Data](https://s-brenner.github.io/maf-trips/data)
+
 [Privacy Policy](https://s-brenner.github.io/maf-trips/privacy)
 
-[Terms of Use](https://s-brenner.github.io/maf-trips/terms)
+[Terms of Service](https://s-brenner.github.io/maf-trips/terms)
