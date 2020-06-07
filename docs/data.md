@@ -42,4 +42,4 @@ What data may be shared with other users of MAF Trips?
 * In the future, I may share your first and last name, your base, and your aircraft, and any trip you deem public and might want to share with fellow crewmembers at your base.
 * If at any point you'd like to remove all of your data from the MAF Trips servers you can do so in-app under Settings -> Account -> Delete.
 
-For more detailed information, you can visit the Terms of Service and the Privacy Policy.
+For more detailed information, you can visit the [Terms of Service](https://s-brenner.github.io/maf-trips/terms) and the [Privacy Policy](https://s-brenner.github.io/maf-trips/privacy).
