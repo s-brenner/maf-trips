@@ -1,6 +1,6 @@
 # Privacy Policy
 
-MAF Trips is owned, operated, and maintained by Scott Brenner (“me”). Scott Brenner respects your right to privacy and shares your concern about the security of any data you may submit via my mobile application (“MAF Trips”, or the “app”) or through its web site (the “site”), currently accessible at https://s-brenner.github.io/maf-trips/.
+MAF Trips is owned, operated, and maintained by Scott Brenner (“me”). Scott Brenner respects your right to privacy and shares your concern about the security of any data you may submit via my mobile application (“MAF Trips”, or the “app”) or through its web site (the “site”), currently accessible at [https://s-brenner.github.io/maf-trips/](https://s-brenner.github.io/maf-trips).
 
 Your privacy is critically important to me. I don’t want to be a creepy stalker or evil spammer. I have a few fundamental principles:
 
@@ -57,6 +57,6 @@ If Scott Brenner makes changes to any terms or conditions of this privacy policy
 
 ## Contact Me
 
-If you have any additional questions or concerns about this policy or our information practices, please feel free to contact me at any time at brenner.scott.980@icloud.com.
+If you have any additional questions or concerns about this policy or our information practices, please feel free to contact me at any time at [brenner.scott.980@icloud.com](mailto://brenner.scott.980@icloud.com).
 
 Last updated June 7, 2020
