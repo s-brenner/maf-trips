@@ -80,8 +80,8 @@ You agree that no joint venture, partnership, employment or agency relationship 
 
 I will provide support to you related to the App via the following methods:
 
-* Email brenner.scott.980@icloud.com
+* Email [brenner.scott.980@icloud.com](mailto:brenner.scott.980@icloud.com)
 
 I strive to respond to support requests within 48 hours after the request is placed.
 
-If you have any questions regarding these Terms, please contact me by email at brenner.scott.980@icloud.com.
+If you have any questions regarding these Terms, please contact me by email at [brenner.scott.980@icloud.com](mailto:brenner.scott.980@icloud.com).
