@@ -27,7 +27,7 @@ Like most website operators, Scott Brenner collects non-personally-identifying i
 
 ## Email Communications
 
-If you choose to stop receiving emails regarding MAF Trips, please follow the unsubscribe instructions within each email communication or send an email to brenner.scott.980@icloud.com. I will not provide or share any mailing lists or other information about you to another company or service for promotional purposes.
+If you choose to stop receiving emails regarding MAF Trips, please follow the unsubscribe instructions within each email communication or send an email to [brenner.scott.980@icloud.com](mailto://brenner.scott.980@icloud.com). I will not provide or share any mailing lists or other information about you to another company or service for promotional purposes.
 
 Any service-related emails (help requests, feedback, etc.) generally do not offer an option to unsubscribe as they are necessary to provide the service you requested.
 
